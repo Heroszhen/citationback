@@ -4,7 +4,6 @@
 <ul class="org-ul">
     <li>make .env.local</li>
     <li>make reset</li>
-    <li>make reset</li>
 </ul>
 
 ## Utiliser le projet
